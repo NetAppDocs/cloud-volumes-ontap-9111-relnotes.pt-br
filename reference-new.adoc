@@ -90,7 +90,7 @@ https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/task-deploy-aws-
 
 O Cloud Volumes ONTAP agora é compatível com a região AWS Jakarta (ap-sudeste-3).
 
-https://cloud.netapp.com/cloud-volumes-global-regions["Veja a lista completa de regiões compatíveis com o Cloud Volumes ONTAP"^]
+https://bluexp.netapp.com/cloud-volumes-global-regions["Veja a lista completa de regiões compatíveis com o Cloud Volumes ONTAP"^]
 
 
 
@@ -98,7 +98,7 @@ https://cloud.netapp.com/cloud-volumes-global-regions["Veja a lista completa de 
 
 O Cloud Volumes ONTAP agora é compatível com a região Sudeste do Brasil Azure.
 
-https://cloud.netapp.com/cloud-volumes-global-regions["Veja a lista completa de regiões compatíveis com o Cloud Volumes ONTAP"^]
+https://bluexp.netapp.com/cloud-volumes-global-regions["Veja a lista completa de regiões compatíveis com o Cloud Volumes ONTAP"^]
 
 
 
