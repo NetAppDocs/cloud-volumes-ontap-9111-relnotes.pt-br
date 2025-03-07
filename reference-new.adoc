@@ -116,7 +116,7 @@ As VMs de storage de 24 agora são compatíveis com o Cloud Volumes ONTAP no Goo
 
 Os pares de HA da Cloud Volumes ONTAP agora são suportados na região de Milão (europa-west8).
 
-https://cloud.netapp.com/cloud-volumes-global-regions["Veja a lista completa de regiões compatíveis com o Cloud Volumes ONTAP"^]
+https://bluexp.netapp.com/cloud-volumes-global-regions["Veja a lista completa de regiões compatíveis com o Cloud Volumes ONTAP"^]
 
 
 
