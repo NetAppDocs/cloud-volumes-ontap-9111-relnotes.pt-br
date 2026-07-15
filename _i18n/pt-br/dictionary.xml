@@ -88,7 +88,6 @@
   <block id="a1834fbcd2847d469ef79f5526dcee65" category="inline-link">Você deve consultar a AWS para obter os detalhes mais recentes e completos sobre os tipos de instância do EC2</block>
   <block id="98ade5346ada08656e0c7b517b695d0f" category="paragraph">Cada licença do Cloud Volumes ONTAP suporta diferentes tipos de instância do EC2. Para sua conveniência, a tabela abaixo mostra o vCPU, a RAM e a largura de banda para cada tipo de instância suportada.<block ref="7fe5ce03f92ccda8dcb0aa0fab836a1f" category="inline-link-rx"></block>.</block>
   <block id="c7d741925ef81824617c6a2975104e27" category="inline-link">Relatório Técnico da NetApp 4383: Caraterização de desempenho do Cloud Volumes ONTAP em Serviços Web da Amazon com cargas de trabalho de aplicativos</block>
-  <block id="b710bbf07a9ba1fa06f2e6f4e77a42db" category="paragraph">As larguras de banda mostradas na tabela abaixo correspondem aos limites documentados da AWS para cada tipo de instância. Esses limites não se alinham completamente com o que o Cloud Volumes ONTAP pode fornecer. Para obter o desempenho esperado,<block ref="c23654021de34c23e6d408104aa3bf49" category="inline-link-rx"></block> consulte a .</block>
   <block id="794df3791a8c800841516007427a2aa3" category="cell">Licença</block>
   <block id="4a7243646d30fc1e81eca2df9826cc03" category="cell">Instância suportada</block>
   <block id="5d56dbd20d9ee1ab8a722ff12e331953" category="cell">VCPU</block>
@@ -627,7 +626,6 @@
   <block id="a83e9f7623076b623810b57914d36eed" category="section-title">Novo suporte à região da AWS</block>
   <block id="5eb162472268d73ff725b5895110cecd" category="paragraph">O Cloud Volumes ONTAP agora é compatível com a região AWS Jakarta (ap-sudeste-3).</block>
   <block id="d1ce20099e22fd96c2217da218a20a9e" category="inline-link">Veja a lista completa de regiões compatíveis com o Cloud Volumes ONTAP</block>
-  <block id="efb1786cdf88244f9480e15cb039f942" category="paragraph"><block ref="efb1786cdf88244f9480e15cb039f942" category="inline-link-rx"></block></block>
   <block id="27c27f8e93050339d7c947d496a184e5" category="section-title">Novo suporte à região do Azure</block>
   <block id="e9f9c72d103b21187e0da8b94a05a46c" category="paragraph">O Cloud Volumes ONTAP agora é compatível com a região Sudeste do Brasil Azure.</block>
   <block id="c2d4a08230372ee80200724895518d5d" category="section-title">Suporte para 24 VMs de storage no Google Cloud</block>
@@ -711,4 +709,5 @@
   <block id="ef9be83cb59b0572a3581a6724316e48" category="list-text">Para obter suporte à região do Google Cloud Platform,<block ref="e55b14db85f4d4837890e415926626e0" category="inline-link-rx"></block>consulte .</block>
   <block id="5a94f18247116693735ff13d8eeaa964" category="paragraph"><block ref="5a94f18247116693735ff13d8eeaa964" category="inline-link-rx"></block></block>
   <block id="c1a328cf0660e851f6654745d3aca99e" category="paragraph"><block ref="c1a328cf0660e851f6654745d3aca99e" category="inline-link-rx"></block></block>
+  <block id="fb83bdf454bf964031306f46d967b051" category="paragraph">As larguras de banda mostradas na tabela abaixo correspondem aos limites documentados da AWS para cada tipo de instância. Esses limites não correspondem totalmente ao que Cloud Volumes ONTAP pode fornecer. Para o desempenho esperado, consulte <block ref="f9e25e1e3616de01564541c204317f8f" category="inline-link-rx"></block>.</block>
 </blocks>
